@@ -6,9 +6,9 @@
 This repository is created to understand the basic concept of Git commits using the **Learn Git Branching platform.
 
 # Commands Used:
-git commit,
+~~~git commit
 
-git commit
+git commit~~~
 
 # Commit Flow:
 
