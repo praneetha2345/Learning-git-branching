@@ -6,9 +6,9 @@
 This repository is created to understand the basic concept of Git commits using the **Learn Git Branching platform.
 
 # Commands Used:
-```git commit
+git commit
 
-git commit```
+git commit
 
 # Commit Flow:
 
@@ -23,10 +23,13 @@ Creating a New Branch
 # The following command is used:
 
 git checkout -b bugFix
+
 This single command does two things:
 
 Creates a new branch named bugFix
+
 Switches (checks out) to the bugFix branch
+
 Branch Pointers After Command Execution
 
 Both main and bugFix branches point to the same commit (C1)
