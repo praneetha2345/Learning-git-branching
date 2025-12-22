@@ -6,9 +6,9 @@
 This repository is created to understand the basic concept of Git commits using the **Learn Git Branching platform.
 
 # Commands Used:
-~~~git commit
+**git commit
 
-git commit~~~
+git commit**
 
 # Commit Flow:
 
@@ -79,66 +79,4 @@ git commit
 git checkout bugFix
 
 git rebase main
-
-Step-by-Step Flow Explanation
-
-1. Initial Commit
-
-The repository begins with an initial commit:
-
-C0 → C1
-
-2. Create and Switch to bugFix Branch
-
-git branch bugFix
-
-git checkout bugFix
-
-
-A new branch bugFix is created
-
-Work starts on the bugFix branch
-
-3. Commit on bugFix
-git commit
-
-
-A new commit C2 is created on bugFix
-
-C1
- └─ C2 (bugFix)
-
-4. Switch to main and Commit
-
-git checkout main
-
-git commit
-
-
-A new commit C3 is added to main
-
-C1
- ├─ C2 (bugFix)
- └─ C3 (main)
-
-5. Rebase bugFix onto main
-   
-git checkout bugFix
-
-git rebase main
-
-
-Git moves bugFix commits on top of main
-
-Commit C2 becomes C2'
-
-History becomes linear
-
-Final Commit Structure
-C0 → C1 → C3 → C2' (bugFix)
-
-
-main remains at C3
-
-bugFix is replayed after main
 
