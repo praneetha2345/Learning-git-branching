@@ -7,6 +7,7 @@ git commit,
 git commit
 Commit Flow:
 C0 → C1 → C2 → C3 (main)
+
 #LEVEL-2[git branches]
 <img width="1878" height="733" alt="Screenshot 2025-12-22 145255" src="https://github.com/user-attachments/assets/33b216fc-8332-4720-bd46-5d397df9eb28" />
 Creating a New Branch
