@@ -22,7 +22,7 @@ Creating a New Branch
 
 # The following command is used:
 
-~~~git checkout -b bugFix~~~
+git checkout -b bugFix
 This single command does two things:
 
 Creates a new branch named bugFix
@@ -79,4 +79,5 @@ git commit
 git checkout bugFix
 
 git rebase main
+
 
