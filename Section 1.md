@@ -1,4 +1,5 @@
-#SECTION-1:
+##SECTION-1:
+
 #LEVEL-1[git commit]
 <img width="1897" height="725" alt="Screenshot 2025-12-22 143826" src="https://github.com/user-attachments/assets/80ebcc2c-6b2e-4793-b7c3-bc6a2672c64e" />
 This repository is created to understand the basic concept of Git commits using the **Learn Git Branching platform.
