@@ -65,15 +65,23 @@ git merge bugFix
 
 ## Commands Used
 
+
 git branch bugFix
+
 git checkout bugFix
+
 git commit
+
 git checkout main
+
 git commit
+
 git checkout bugFix
+
 git rebase main
 
 Step-by-Step Flow Explanation
+
 1. Initial Commit
 
 The repository begins with an initial commit:
@@ -81,7 +89,9 @@ The repository begins with an initial commit:
 C0 → C1
 
 2. Create and Switch to bugFix Branch
+
 git branch bugFix
+
 git checkout bugFix
 
 
@@ -99,7 +109,9 @@ C1
  └─ C2 (bugFix)
 
 4. Switch to main and Commit
+
 git checkout main
+
 git commit
 
 
@@ -110,7 +122,9 @@ C1
  └─ C3 (main)
 
 5. Rebase bugFix onto main
+   
 git checkout bugFix
+
 git rebase main
 
 
