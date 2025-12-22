@@ -33,9 +33,6 @@ Both main and bugFix branches point to the same commit (C1)
 
 The * symbol indicates the current active branch
 
-In the image:<img width="1890" height="726" alt="Screenshot 2025-12-22 150311" src="https://github.com/user-attachments/assets/4741ce79-cc2d-4b49-bade-c664ccb983af" />
-
-
 bugFix* → active branch
 
 main → inactive branch
@@ -46,7 +43,7 @@ main → inactive branch
 
 # Learn Git Branching – Merging in Git
 
-This repository demonstrates the concept of merging branches in Git using the **Learn Git Branching** interactive platform
+This repository demonstrates the concept of merging branches in Git using the Learn Git Branching interactive platform
 
 
 
