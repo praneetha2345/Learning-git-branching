@@ -8,7 +8,7 @@ This repository is created to understand the basic concept of Git commits using 
 # Commands Used:
 ~~~git commit
 
-git commit~~~
+git commit
 
 # Commit Flow:
 
