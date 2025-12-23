@@ -8,6 +8,8 @@ learning git branching by using commits
 
 This repository is created to understand the basic concept of Git commits using the **Learn Git Branching platform.
 
+```bash
+
 git commit
 
 git commit
