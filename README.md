@@ -52,6 +52,22 @@ main → inactive branch
 
 # LEVEL-3[branches merging]
 
+This level explains how Git merge works using two branches.
+
+Step-by-step flow:
+
+You start on the main branch at commit C1.
+
+A new branch bugFix is created and checked out.
+
+You make a commit on bugFix → creates commit C2.
+
+You switch back to main.
+
+You make a commit on main → creates commit C3.
+
+You run git merge bugFix while on main.
+
 <img width="1890" height="726" alt="Screenshot 2025-12-22 150311" src="https://github.com/user-attachments/assets/83fc9399-0408-4246-8a78-290d72132187" />
 
 
