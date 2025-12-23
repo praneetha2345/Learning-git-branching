@@ -22,4 +22,20 @@ git branch -f bugFix C0
 
 git branch -f main C6
 
+# LEVEL -4:
+
+
+<img width="1893" height="786" alt="Screenshot 2025-12-17 112207" src="https://github.com/user-attachments/assets/d5ede02b-4be8-4466-abdd-aabbc0f1e38d" />
+
+git reset HEAD~1
+
+git checkout local
+
+git checkout main
+
+git checkout main
+
+git checkout pushed
+
+git revert pushed
 
