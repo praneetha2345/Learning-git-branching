@@ -182,6 +182,26 @@ git cherry-pick C3
 git cherry-pick C4 C7
 
 ```
+# LEVEL - 2:
 
+it is used to interactively reorder or modify the last 4 commits to achieve the desired commit structure.
+
+
+<img width="1914" height="730" alt="Screenshot 2025-12-23 121749" src="https://github.com/user-attachments/assets/50f7af41-621f-4ee2-b1af-a8fbc150d453" />
+
+
+```
+
+git rebase -i HEAD~4
+
+```
+
+the image, commits are reordered so that:
+
+c1 stays at the top (with overHere pointing to it)
+
+c3' → c5' → c4' are placed neatly under it
+
+main finally points to c4', matching the goal state
 
 
