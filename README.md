@@ -25,11 +25,13 @@ C0 → C1 → C2 → C3 (main)
 
 # LEVEL-2[git branches]
 
+This demonstrates that branches are just pointers, and creating a branch does not copy code—it simply creates a new reference to the same commit.
+
 <img width="1878" height="733" alt="Screenshot 2025-12-22 145255" src="https://github.com/user-attachments/assets/33b216fc-8332-4720-bd46-5d397df9eb28" />
 
 Creating a New Branch
 
-# The following command is used:
+#  command is used:
 ```
 
 git checkout -b bugFix
@@ -53,7 +55,6 @@ main → inactive branch
 <img width="1890" height="726" alt="Screenshot 2025-12-22 150311" src="https://github.com/user-attachments/assets/83fc9399-0408-4246-8a78-290d72132187" />
 
 
-This repository demonstrates the concept of merging branches in Git using the Learn Git Branching interactive platform
 
 
 
