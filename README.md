@@ -26,7 +26,7 @@ Creating a New Branch
 
 # The following command is used:
 
-~~~git checkout -b bugFix~~~
+git checkout -b bugFix
 
 This single command does two things:
 
@@ -55,7 +55,7 @@ This repository demonstrates the concept of merging branches in Git using the Le
 
 ## Commands Used
 
-1. ```git checkout -b bugFix
+~~~1. git checkout -b bugFix
 
 2. git commit
 
@@ -63,7 +63,7 @@ This repository demonstrates the concept of merging branches in Git using the Le
 
 4. git commit
 
-5. git merge bugFix```
+5. git merge bugFix~~~
 
 # LEVEL-4:[branching rebase]
 
