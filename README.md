@@ -31,13 +31,9 @@ git checkout -b bugFix
 This single command does two things:
 
 Creates a new branch named bugFix
-
 Switches (checks out) to the bugFix branch
-
 Branch Pointers After Command Execution
-
 Both main and bugFix branches point to the same commit (C1)
-
 The * symbol indicates the current active branch
 
 bugFix* → active branch
