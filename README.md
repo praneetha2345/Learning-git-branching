@@ -27,8 +27,11 @@ C0 → C1 → C2 → C3 (main)
 Creating a New Branch
 
 # The following command is used:
+```
 
 git checkout -b bugFix
+
+```
 
 This single command does two things:
 
@@ -72,7 +75,7 @@ git merge bugFix
 
 
 ## Commands Used
-
+```
 
 git branch bugFix
 
@@ -87,6 +90,8 @@ git commit
 git checkout bugFix
 
 git rebase main
+
+```
 
 # SECTION -2:
 
