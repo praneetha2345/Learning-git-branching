@@ -51,7 +51,7 @@ This repository demonstrates the concept of merging branches in Git using the Le
 
 ## Commands Used
 
-git checkout -b bugFix
+~~~git checkout -b bugFix
 
 git commit
 
@@ -59,7 +59,7 @@ git checkout main
 
 git commit
 
-git merge bugFix
+git merge bugFix~~~
 
 # LEVEL-4:[branching rebase]
 
