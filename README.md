@@ -8,11 +8,11 @@ learning git branching by using commits
 
 This repository is created to understand the basic concept of Git commits using the **Learn Git Branching platform.
 
-```bash
+
 
 git commit
 
-git commit```
+git commit
 
 # Commit Flow:
 
@@ -55,15 +55,15 @@ This repository demonstrates the concept of merging branches in Git using the Le
 
 ## Commands Used
 
-git checkout -b bugFix
+1. ```git checkout -b bugFix
 
-git commit
+2. git commit
 
-git checkout main
+3. git checkout main
 
-git commit
+4. git commit
 
-git merge bugFix
+5. git merge bugFix```
 
 # LEVEL-4:[branching rebase]
 
