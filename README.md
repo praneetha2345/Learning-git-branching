@@ -118,11 +118,15 @@ git checkout HEAD^
 
 <img width="1877" height="740" alt="Screenshot 2025-12-17 111220" src="https://github.com/user-attachments/assets/48a56f5b-6207-4e52-b523-4e996effeee9" />
 
+```
+
 git checkout HEAD~1
 
 git branch -f bugFix C0
 
 git branch -f main C6
+
+```
 
 # LEVEL -4:
 
