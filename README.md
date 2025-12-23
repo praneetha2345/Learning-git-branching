@@ -105,7 +105,7 @@ git checkout C4
 
 ```
 
-# LEVEL-2:[Refs relative]
+# LEVEL-2:[relative Refs]
 
 <img width="1910" height="752" alt="Screenshot 2025-12-17 110352" src="https://github.com/user-attachments/assets/cbef9ff5-6676-470e-9c03-1107743da901" />
 
@@ -115,7 +115,7 @@ git checkout HEAD^
 
 ```
 
-# LEVEL-3:
+# LEVEL-3:[[2relative Refs]
 
 <img width="1877" height="740" alt="Screenshot 2025-12-17 111220" src="https://github.com/user-attachments/assets/48a56f5b-6207-4e52-b523-4e996effeee9" />
 
@@ -129,7 +129,7 @@ git branch -f main C6
 
 ```
 
-# LEVEL -4:
+# LEVEL -4:[Revesing changes in git]
 
 
 <img width="1893" height="786" alt="Screenshot 2025-12-17 112207" src="https://github.com/user-attachments/assets/d5ede02b-4be8-4466-abdd-aabbc0f1e38d" />
